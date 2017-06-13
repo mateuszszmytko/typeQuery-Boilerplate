@@ -4,7 +4,7 @@ var ExtractTextPlugin = require('extract-text-webpack-plugin');
 var autoprefixer = require('autoprefixer');
 
 const extractSass = new ExtractTextPlugin({
-    filename: "/main.min.css",
+    filename: "main.min.css",
 });
 
 const uglifyJs = new webpack.optimize.UglifyJsPlugin({
