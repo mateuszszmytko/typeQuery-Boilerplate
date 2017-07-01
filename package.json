@@ -1,6 +1,6 @@
 {
   "name": "typequery-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "dependencies": {},
@@ -15,7 +15,7 @@
     "sass-resources-loader": "^1.2.1",
     "source-map-loader": "^0.2.1",
     "style-loader": "^0.18.2",
-    "typequery": "^1.0.0",
+    "typequery": "^1.0.2",
     "typescript": "^2.3.2",
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.4.5"
