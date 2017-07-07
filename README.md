@@ -13,3 +13,4 @@ $ npm install
 ```
 
 *Make sure, you have [node](https://nodejs.org/download/) installed on your machine before running `npm` command
+

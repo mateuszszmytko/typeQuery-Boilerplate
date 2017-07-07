@@ -11,7 +11,7 @@ import './styles/main.scss';
 class App {
     constructor() { }
     onInit() {
-        
+        console.log('???');
     }
     
 }
